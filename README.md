@@ -238,7 +238,7 @@ Planned areas of exploration include:
 
 **Faisal Mahmud Arzu**
 
-Computer Science student at Daffodil International University, interested in Artificial Intelligence, Machine Learning, and AI Engineering.
+Software Engineering student at Daffodil International University, interested in Artificial Intelligence, Machine Learning, and AI Engineering.
 
 I use this repository to document my learning process, strengthen my understanding of machine learning algorithms, and build practical experience through hands-on implementations.
 
